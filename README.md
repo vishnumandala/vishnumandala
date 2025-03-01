@@ -26,10 +26,5 @@ Thanks for stopping by!
   <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnumandala&show_icons=true&locale=en&layout=compact" alt="vishnumandala" />
   </div>
-  <div style="flex: 1; text-align: center;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=vishnumandala" alt="vishnumandala" />
-    </a>
-  </div>
 </div>
 
