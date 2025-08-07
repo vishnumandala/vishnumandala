@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu Mandala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumandala&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumandala" /> </p>
 
-Welcome to my corner of GitHub! I'm a robotics enthusiast and creative problem solver based in College Park, MD, where I blend my passion for robotics, automation, and intelligent systems to bring innovative ideas to life.
+Welcome to my corner of GitHub! I'm a robotics enthusiast and creative problem solver based in Fort Wayne, IN, where I blend my passion for robotics, automation, and intelligent systems to bring innovative ideas to life.
 
-I’m a recent gradaute with Master's in Robotics from the University of Maryland. Every day brings new challenges and learning opportunities, whether I'm exploring autonomous systems, fine-tuning deep learning models, or experimenting with novel control strategies. My journey in robotics began with a deep curiosity about how machines can interact with the world—and it has evolved into a commitment to design systems that are not only smart but also efficient and reliable.
+I’m a Systems Integration Engineer at OTTO by Rockwell Automation and a gradaute with Master's in Robotics from the University of Maryland. Every day brings new challenges and learning opportunities, whether I'm exploring autonomous systems, fine-tuning deep learning models, or experimenting with novel control strategies. My journey in robotics began with a deep curiosity about how machines can interact with the world—and it has evolved into a commitment to design systems that are not only smart but also efficient and reliable.
 
 Over the years, I've had the chance to teach, manage operations, and work hands-on with cutting-edge projects. I've been involved in everything from developing advanced navigation algorithms for autonomous robots to crafting mobile deep learning solutions for real-time applications. I love turning complex problems into elegant, real-world solutions, and I'm always excited to dive into new projects that push the boundaries of technology.
 
