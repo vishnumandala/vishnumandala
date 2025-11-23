@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vishnu Mandala</h1>
+<h1 align="center">Hi, I'm Vishnu Mandala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumandala&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumandala" /> </p>
 
-Welcome to my corner of GitHub! I'm a robotics enthusiast and creative problem solver based in Fort Wayne, IN, where I blend my passion for robotics, automation, and intelligent systems to bring innovative ideas to life.
+I'm a Robotics Engineer based in San Jose, CA, where I blend my passion for full-stack robotics, automation, and intelligent systems to bring innovative ideas to life.
 
-I’m a Systems Integration Engineer at OTTO by Rockwell Automation and a gradaute with Master's in Robotics from the University of Maryland. Every day brings new challenges and learning opportunities, whether I'm exploring autonomous systems, fine-tuning deep learning models, or experimenting with novel control strategies. My journey in robotics began with a deep curiosity about how machines can interact with the world—and it has evolved into a commitment to design systems that are not only smart but also efficient and reliable.
+Currently, I’m building the autonomy stack at Roboteon Inc., working hands-on to architect solutions for the next generation of warehouses. My journey has taken me from the agility of early-stage startups (RoBuildX) to the rigor of massive industrial deployments (OTTO by Rockwell Automation). This unique mix has taught me how to build systems that are not only innovative but scalable and reliable.
 
-Over the years, I've had the chance to teach, manage operations, and work hands-on with cutting-edge projects. I've been involved in everything from developing advanced navigation algorithms for autonomous robots to crafting mobile deep learning solutions for real-time applications. I love turning complex problems into elegant, real-world solutions, and I'm always excited to dive into new projects that push the boundaries of technology.
+I am a firm believer that knowledge grows when shared. As a former Graduate Teaching Assistant at the University of Maryland, I love breaking down complex concepts and contributing to the community. Whether I'm fine-tuning ROS2 navigation stacks, experimenting with deep learning models, or exploring novel control strategies, I’m always looking for ways to learn and teach simultaneously.
 
-When I'm not coding or testing robotic systems, you might find me sketching ideas for my next project, exploring the latest in AI research, or simply enjoying a good conversation about the future of technology. I'm a firm believer in collaboration and community, and I enjoy connecting with fellow innovators who are as passionate about robotics and automation as I am.
-
-Feel free to explore my repositories, check out my [projects](https://github.com/vishnumandala?tab=repositories), or drop me a [line](mailto:vishnum@terpmail.umd.edu). I’m always up for a chat, whether it’s about a cool idea, a potential collaboration, or just to say hi!
+When I'm not coding, you might find me sketching ideas for my next project or discussing the future of AI. I thrive on collaboration, so feel free to explore my repos, check out my [projects](https://github.com/vishnumandala?tab=repositories), or drop me a [line](mailto:vishnum@terpmail.umd.edu). I’m always up for a chat about code, robots, or a cool new idea!
 
 Thanks for stopping by!
 
